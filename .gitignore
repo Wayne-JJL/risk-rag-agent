@@ -3,5 +3,7 @@
 .env
 .idea/
 .vscode/
+
+# Optional: ignore generated local vector index files
 src/data/rag_store/chunks.json
 src/data/rag_store/vectors.json

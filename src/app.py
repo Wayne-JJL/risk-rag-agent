@@ -5,7 +5,7 @@ from utils import print_usage
 
 
 def main():
-    print("=== Agent V1.1 启动成功 ===")
+    print("=== Agent V1.3.2 启动成功 ===")
     print("输入 quit 退出程序。\n")
 
     history = init_history(AGENT_SYSTEM_PROMPT)
