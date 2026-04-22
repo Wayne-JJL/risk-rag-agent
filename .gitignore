@@ -1,0 +1,7 @@
+﻿__pycache__/
+*.pyc
+.env
+.idea/
+.vscode/
+src/data/rag_store/chunks.json
+src/data/rag_store/vectors.json
